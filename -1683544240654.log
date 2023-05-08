@@ -1,0 +1,3 @@
+script10.js:10 {name: 'adam', age: 25, show: ƒ}
+script10.js:28 Person {name: 'Bartek', age: 19, show: ƒ}
+script10.js:32 Person {name: 'ola', age: 22, show: ƒ}
